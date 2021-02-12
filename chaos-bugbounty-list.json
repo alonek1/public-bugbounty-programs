@@ -4509,7 +4509,7 @@
 		{
 			"name": "cafebazaar",
 			"url": "https://bugbounty.cafebazaar.cloud/",
-			"bounty": true,
+			"bounty": false,
 			"domains": [
 				"cafebazaar.ir"
 			]
